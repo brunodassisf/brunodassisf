@@ -1,6 +1,6 @@
 # Olá, sou Bruno de Assis Ferreira
 ### Desenvolvedor Front-End
-Formado em Sistemas para Internet (2018), Porfissional experiente com mais de 5 anos no desenvolvimento web, conceitos solidos em HTML5, CSS3, JavaScript, NodeJS, TypeScript, UI/UX, designer responsivos, ReactJS, NextJs, GitHub e cada dia me aprimorando mais!
+Formado em Sistemas para Internet (2018), Profissional experiente com mais de 5 anos no desenvolvimento web, conceitos solidos em HTML5, CSS3, JavaScript, NodeJS, TypeScript, UI/UX, designer responsivos, ReactJS, NextJs, GitHub e cada dia me aprimorando mais!
  <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodassisf&theme=tokyonight" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodassisf&layout=compact&theme=tokyonight" />
