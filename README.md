@@ -26,7 +26,7 @@ Formado em Sistemas para Internet (2018), Profissional experiente com mais de 5 
 <a href="https://www.linkedin.com/in/bruno-de-assis-ferreira/" target="_blank">
 <img width="150" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://brunodassisf.vercel.app/" target="_blank">
+<a href="https://bruno-de-assis-ferreira.vercel.app/" target="_blank">
 <img width="150" height="40" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 </div>
