@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor Full Stack com mais de 5 anos criando interfaces modernas, escaláveis e centradas no usuário. Minha base é **React e TypeScript** no front-end e **Node.js (Express/NestJS)** no back-end. Trabalho com arquitetura de **Monorepo**, **DDD** e modernização de sistemas legados.
+Sou desenvolvedor Full Stack com mais de 6 anos criando interfaces modernas, escaláveis e centradas no usuário. Minha base é **React e TypeScript** no front-end e **Node.js (Express/NestJS)** no back-end. Trabalho com arquitetura de **Monorepo**, **DDD** e modernização de sistemas legados.
 
 - 🔭 Atualmente desenvolvo ecossistemas escaláveis com **Node.js, React, MongoDB, Redis e Docker**
 - 🏗️ Liderei a migração de um sistema desktop legado (C#) para uma plataforma web com **React + TypeScript**
@@ -68,7 +68,7 @@ Sou desenvolvedor Full Stack com mais de 5 anos criando interfaces modernas, esc
 
 <p>
   <a href="https://wa.me/5521982947600"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/bruno-de-assis-ferreira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:brunodassis30@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
